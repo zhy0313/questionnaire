@@ -13,3 +13,4 @@ $ npm start
 ```
 #### 注意 ： 记得开启mongodb，可以在config.js中修改配置
 #### public目录下是已经经过webpack打包后的代码，源码见仓库questionnaire-front
+#### 输入http://localhost:8000/admin显示管理员页面，http://localhost:8000/user显示用户页面
