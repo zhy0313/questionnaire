@@ -1,0 +1,16 @@
+{
+  "name": "questionnaire-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zyl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.8.6",
+    "node-uuid": "^1.4.7"
+  }
+}
